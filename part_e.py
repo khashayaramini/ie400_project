@@ -18,6 +18,7 @@ X = model.addVars(n, n, vtype=gp.GRB.BINARY, name='X')
 # objective function
 model.setObjective(gp.quicksum(X[i, j]*X[i+1, j-1]*((energies[keys.index(f"{s[i]}{s[j]}")][keys.index(f"{s[i+1]}{s[j-1]}")]) if f"{s[i]}{s[j]}" in keys and f"{s[i+1]}{s[j-1]}" in keys else 0) for i in range(n) for j in range(i+1, n)), gp.GRB.MINIMIZE)
 
+# model.setObjective(gp.quicksum())
 # constraints
 
 for i in range(n):
