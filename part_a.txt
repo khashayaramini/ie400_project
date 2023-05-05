@@ -1,0 +1,26 @@
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-05-03
+Pair (1,70), A : U
+Pair (2,65), A : U
+Pair (3,63), G : C
+Pair (4,61), U : A
+Pair (6,60), U : A
+Pair (7,59), U : A
+Pair (9,58), G : C
+Pair (12,57), G : C
+Pair (13,56), C : G
+Pair (14,54), A : U
+Pair (16,53), C : G
+Pair (18,52), U : A
+Pair (19,51), U : A
+Pair (21,50), G : C
+Pair (22,49), U : A
+Pair (23,48), G : C
+Pair (27,47), A : U
+Pair (28,46), C : G
+Pair (31,44), C : G
+Pair (32,43), A : U
+Pair (33,39), A : U
+Pair (34,38), U : A
+Optimal solution found: 22 pairs
+elapsed time is: 69.0789749622345

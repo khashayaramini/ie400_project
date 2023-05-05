@@ -1,0 +1,15 @@
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-05-03
+stack (2,67), G : C -> (3,66), U : A
+stack (11,62), G : C -> (12,61), C : G
+stack (14,56), G : C -> (15,55), C : G
+stack (16,52), C : G -> (17,51), U : A
+stack (21,50), U : A -> (22,49), G : C
+stack (22,49), G : C -> (23,48), U : A
+stack (23,48), U : A -> (24,47), G : C
+stack (24,47), G : C -> (25,46), A : U
+stack (27,43), C : G -> (28,42), A : U
+stack (29,35), G : C -> (30,34), C : G
+Optimal solution found: 10 stacks
+energy is -21.599999999999998
+elapsed time is: 37.11989068984985
